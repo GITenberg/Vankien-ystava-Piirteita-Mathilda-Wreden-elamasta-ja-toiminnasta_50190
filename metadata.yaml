@@ -1,10 +1,16 @@
 _repo: Vankien-ystava-Piirteita-Mathilda-Wreden-elamasta-ja-toiminnasta_50190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fogelberg, Evy
     gutenberg_agent_id: '45743'
     url: http://www.gutenberg.org/2009/agents/45743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50190#Vankien-ystava-Piirteita-Mathilda-Wreden-elamasta-ja-toiminnasta
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
